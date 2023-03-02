@@ -19,4 +19,10 @@ npm run build
 ### Lints and fixes files
 ```
 npm run lint
+
+
+for login the folowwing credentials can be used
+
+teste@email.com
 ```
+teste328!
