@@ -46,7 +46,7 @@ export const repoStore = defineStore('repositories', {
             filter,
           {
             headers: {
-              Authorization: 'Bearer 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'
+              Authorization: 'Bearer INSERT_TOKEN_HERE'
             }
           }
         )

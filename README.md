@@ -26,4 +26,6 @@ for login the folowwing credentials can be used
 user: teste@email.com
 pass: teste328!
 
+replace the guithub token in the stores/repositories.js file
+
 ```
