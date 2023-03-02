@@ -23,6 +23,7 @@ npm run lint
 
 for login the folowwing credentials can be used
 
-teste@email.com
+user: teste@email.com
+pass: teste328!
+
 ```
-teste328!
